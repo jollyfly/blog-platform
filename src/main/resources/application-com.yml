@@ -1,0 +1,5 @@
+spring:
+  redis:
+    host: 10.51.3.245
+    port: 6379
+    password: kv(821b312121^dd(d1fvd
